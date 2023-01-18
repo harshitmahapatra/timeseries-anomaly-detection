@@ -10,5 +10,8 @@ mlruns/
 #Models
 models/
 
+# Plots
+plots/
+
 #Notebook Checkpoints
 .ipynb_checkpoints/
