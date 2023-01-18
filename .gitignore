@@ -1,0 +1,14 @@
+# VS Code
+.vscode
+
+# Dataset
+ecg/
+
+#MLRuns
+mlruns/
+
+#Models
+models/
+
+#Notebook Checkpoints
+.ipynb_checkpoints/
