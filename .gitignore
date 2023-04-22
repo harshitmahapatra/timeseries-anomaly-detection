@@ -3,6 +3,7 @@
 
 # Dataset
 ecg/
+ctg/
 
 #MLRuns
 mlruns/
