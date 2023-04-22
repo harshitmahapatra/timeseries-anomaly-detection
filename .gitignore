@@ -16,3 +16,6 @@ plots/
 
 #Notebook Checkpoints
 .ipynb_checkpoints/
+
+#Venv
+.venv
