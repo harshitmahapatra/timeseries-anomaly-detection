@@ -19,3 +19,6 @@ plots/
 
 #Venv
 .venv
+
+#Pycache
+__pycache__
